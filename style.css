@@ -1,0 +1,36 @@
+body {
+	border-top: 8px solid #FFF200;
+	margin-top: 0;
+	font-family: Alright Sans,sans-serif;
+	font-size: 93.75%;
+	line-height: 1.66667;
+	background-color: #F1F3F2;
+	color: #4C4E4D;
+	width: 100%;
+	overflow-x: hidden;
+}
+
+h2 {
+font-family: Balto,sans-serif;
+font-weight: 700;
+font-size: 3em;
+-moz-osx-font-smoothing: grayscale;
+text-rendering: optimizelegibility;
+line-height: 1.2;
+margin: 0px;
+max-width: 90%;
+padding-bottom: 0px;
+}
+
+h3 {
+	font-size: 2em;
+	line-height: 1.125em;
+	font-family: Balto,sans-serif;
+	margin: 1.5em 0px 0.5em;
+}
+
+.caption {
+	color: #979797;
+	font-size: 0.8em;
+}
+
